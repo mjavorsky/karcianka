@@ -1,0 +1,86 @@
+id	Typ Nazwa   Koszt   kopalnia    ruda    magia   krysztal    podziemia   bestie  wieza   mur 	obrażenia	kopalnia    ruda    magia   krysztal    podziemia   bestie  wieza   mur obrażenia   playAgain   opis
+1;	1;  Kradzież kamieni;0;0;       -8;     0;      0;          0;          0;      0;      0;  	0;			0;          -8;     0;      0;          0;          0;      0;      0;  0;          0;          Wszyscy gracze tracą 8 kamieni.
+2;	1;  Szczęśliwy traf;0;0;        2;      0;      2;          0;          0;      0;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          1;          Kamienie +2, kryształy +2, kolejny ruch.
+3;	1;  Przyjazny teren;1;0;        0;      0;      0;          0;          0;      0;      1;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          1;          Mur +1, kolejny ruch.
+4;	1;  Górnicy;3;      1;          0;      0;      0;          0;          0;      0;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Kopalnia +1.
+5;	1;  Krasnoludy;7;   1;          0;      0;      0;          0;          0;      0;      4;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +4, kopalnia +1.
+6;	1;  Nadgodziny;2;   0;          0;      0;      -6;         0;          0;      0;      5;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +5, tracisz 6 kryształów.
+7;	1;  Słaby mur;2;    0;          0;      0;      0;          0;          0;      0;      3;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +3.
+8;	1;  Wzmocniony mur;3;0;         0;      0;      0;          0;          0;      0;      4;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +4.
+9;	1;  Innowacje;2;    1;          0;      0;      4;          0;          0;      0;      0;  	0;			1;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wszyscy gracze: kopalnia +1, otrzymujesz 4 kryształy.
+10;	1;  Wstrząsy;7;     0;          0;      0;      0;          0;          0;      0;      -5; 	0;			0;          0;      0;      0;          0;          0;      0;      -5; 0;          1;          Wszyscy gracze: mur -5, kolejny ruch.
+11;	1;  Sekretny pokój;8;0;         0;      1;      0;          0;          0;      0;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          1;          Magia +1, kolejny ruch.
+12;	1;  Trzęsienie ziemi;0;-1;      0;      0;      0;          0;          0;      0;      0;  	0;			-1;         0;      0;      0;          0;          0;      0;      0;  0;          0;          Wszyscy gracze: kopalnia -1.
+13;	1;  Duży mur;5;     0;          0;      0;      0;          0;          0;      0;      6;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +6.
+14;	1;  Rozpad; 0;      0;          0;      0;      0;          0;          0;      0;      0;  	0;			-1;         0;      0;      0;          0;          0;      0;      0;  0;          0;          Przeciwnik kopalnia -1.
+15;	1;  Nowe wyposażenie;6;2;       0;      0;      0;          0;          0;      0;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Kopalnia +2.
+16;	1;  Wyburzanie;6;   -1;         0;      0;      5;          0;          0;      0;      10; 	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Kopalnia -1, Mur +10, otrzymujesz 5 kryształów.
+17;	1;  Mocny mur;8;    0;          0;      0;      0;          0;          0;      0;      8;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +8.
+18;	1;  Rozbudowa;9;    0;          0;      0;      0;          1;          0;      0;      5;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +5, podziemia +1.
+19;	1;  Kryształy;9;    0;          0;      0;      7;          0;          0;      0;      7;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +7, otrzymujesz 7 kryształów.
+20;	1;  Harmonia;11;    0;          0;      0;      0;          0;          0;      3;      6;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +6, wieża +3.
+21;	1;  Wielki mur;13;  0;          0;      0;      0;          0;          0;      0;      12; 	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +12.
+22;	1;  Projektant;15;  0;          0;      0;      0;          0;          0;      5;      8;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +8, wieża +5.
+23;	1;  Ogromny mur;16; 0;          0;      0;      0;          0;          0;      0;      15; 	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +15.
+24;	1;  Katapulta;18;   0;          0;      0;      0;          0;          0;      0;      6;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  10;         0;          Mur +6, zadaje 10 obrażeń.
+25;	1;  Serce smoka;24; 0;          0;      0;      0;          0;          0;      8;      20; 	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +20, wieża +8.
+26;	1;  Praca przymusowa;7;0;       0;      0;      0;          0;          -5;     0;      9;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +9, tracisz 5 bestii.
+27;	1;  Kamienny ogród;1;0;         0;      0;      0;          0;          2;      0;      1;  	0;			1;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Mur +1, wieża +1, otrzymujesz 2 bestie.
+28;	1;  Blanki; 14;     0;          0;      0;      0;          0;          0;      0;      7;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  6;          0;          Mur +7, zadaje 6 obrażeń.
+29;	2;  Kwarc;  1;      0;          0;      0;      0;          0;          0;      1;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          1;          Wieża +1, kolejny ruch.
+30;	2;  Kwarc dymny;2;  0;          0;      0;      0;          0;          0;      0;      0;  	0;			0;          0;      0;      0;          0;          0;      -1;     0;  0;          1;          1 obrażeń dla wrogiej wieży, kolejny ruch.
+31;	2;  Ametyst;2;      0;          0;      0;      0;          0;          0;      3;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +3.
+32;	2;  Tkacz zaklęć;3; 0;          0;      1;      0;          0;          0;      0;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Magia +1.
+33;	2;  Rozbłysk;4;     0;          0;      0;      0;          0;          0;      2;      0;  	0;			0;          0;      0;      0;          0;          0;      -2;     0;  0;          0;          Wieża +2, 2 obrżenia dla wrogiej wieży.
+34;	2;  Kryształ;6;     0;          0;      1;      0;          0;          0;      3;      0;  	0;			0;          0;      0;      0;          0;          0;      1;      0;  0;          0;          Magia +1,wieża +3, wroga wieża +1.
+35;	2;  Kamienny bład;2;0;          0;      0;      0;          0;          0;      0;      0;  	0;			0;          0;      0;      0;          0;          0;      -3;     0;  0;          0;          3 obrażenia dla wrogiej wieży.
+36;	2;  Rubin;  3;      0;          0;      0;      0;          0;          0;      5;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +5.
+37;	2;  Włócznia;4;     0;          0;      0;      0;          0;          0;      0;      0;  	0;			0;          0;      0;      0;          0;          0;      -5;     0;  0;          0;          5 obrażeń dla wrogiej wieży.
+38;	2;  Płomień magii;3;0;          0;      2;      0;          0;          0;      -5;     0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          5 obrażeń dla TWOJEJ wieży, magia +2.
+39;	2;  Harmonia;7;     0;          0;      1;      0;          0;          0;      3;      3;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Magia +1, wieża +3, mur +3.
+40;	2;  Szmaragd;6;     0;          0;      0;      0;          0;          0;      8;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +8.
+41;	2;  Perła mądrości;9;0;         0;      1;      0;          0;          0;      5;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +5, magia +1.
+42;	2;  Łamacz; 8;      0;          0;      1;      0;          0;          0;      0;      0;  	0;			0;          0;      0;      0;          0;          0;      -9;     0;  0;          0;          Magia +1, 9 obrażeń dla wrogiej wieży.
+43;	2;  Kruszynka;7;    0;          0;      0;      0;          0;          0;      5;      0;  	0;			0;          -6;     0;      0;          0;          0;      0;      0;  0;          0;          Wieża +5, przeciwnik traci 6 kamieni.
+44;	2;  Szafir; 10;     0;          0;      0;      0;          0;          0;      11;     0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +11.
+45;	2;  Niezgoda;5;     0;          0;      -1;     0;          0;          0;      -7;     0;  	0;			0;          0;      -1;     0;          0;          0;      -7;     0;  0;          0;          Wszyscy gracze: wieża -7, magia -1.
+46;	2;  Ognisty rubin;13;0;         0;      0;      0;          0;          0;      6;      0;  	0;			0;          0;      0;      0;          0;          0;      -4;     0;  0;          0;          Wieża +6, 4 obrżenia dla wrogiej wieży.
+47;	2;  Łup;    4;      0;          -10;    0;      0;          0;          0;      7;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +7, tracisz 10 kamieni.
+48;	2;  Zaklęta tarcza;12;0;        0;      0;      0;          0;          0;      8;      3;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +8, mur +3.
+49;	2;  Empatia;14;     0;          0;      0;      0;          1;          0;      8;      0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +8, podziemia +1.
+50;	2;  Diament;16;     0;          0;      0;      0;          0;          0;      15;     0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +15.
+51;	2;  Sanktuarium;15; 0;          0;      0;      0;          0;          5;      10;     5;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +10, mur +5, otrzymujesz 5 bestii.
+52;	2;  Lawa rubinów;17;0;          0;      0;      0;          0;          0;      12;     0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  6;          0;          Wieża +12, zadaje 6 obrażeń.
+53;	2;  Oko smoka;21;   0;          0;      0;      0;          0;          0;      20;     0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +20.
+54;	2;  Krystalizacja;8;0;          0;      0;      0;          0;          0;      11;     -6; 	0;			 0;         0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +11, mur -6.
+55;	2;  Tęcza;  0;      0;          0;      0;      3;          0;          0;      1;      0;  	0;			0;          0;      0;      0;          0;          0;      1;      0;  0;          0;          Wieża +1, wroga wieża +1, otrzymujesz 3 kryształy.
+56;	2;  Uczeń;  5;      0;          0;      0;      0;          0;          -3;      4;     0;  	0;			0;          0;      0;      0;          0;          0;      -2;     0;  0;          0;          Wieża +4, otrzymujesz 3 bestie, 2 obrażenia dla wrogiej wieży.
+57;	2;  Faza Klejnot;18;0;          6;      0;      0;          0;          6;      13;     0;  	0;			0;          0;      0;      0;          0;          0;      0;      0;  0;          0;          Wieża +13, otrzymujesz 6 bestii oraz kamieni.
+58;	3;	Driada;	1;		0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	2;			1;			Zadaje 2 obrażenia, kolejny ruch.
+59;	3;	Ork;	3;		0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	5;			0;			Zadaje 5 obrażeń.
+60;	3;	Miecznik;5;		0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	6;			0;			Zadaje 6 obrażeń.
+61;	3;	Ogr;	6;		0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	7;			0;			Zadaje 7 obrażeń.
+62;	3;	Wilkołak;9;		0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	9;			0;			Zadaje 9 obrażeń.
+63;	3;	Wściekłe Krowy;0;0;			0;		0;		0;			0;			-6;		0;		0;		0;			0;			0;		0;		0;			0;			-6;		0;		0;	0;			0;			Wszyscy gracze tracą 6 bestii.
+64;	3;	Humorzaste Gobliny;1;0;		0;		0;		-3;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	4;			0;			Zadaje 4 obrażeń, tracisz 3 kryształy.
+65;	3;	Banda Goblinów;3;0;			0;		0;		0;			0;			0;		0;		0;		3;			0;			0;		0;		0;			0;			0;		0;		0;	6;			0;			Zadaje 6 obrażeń, otrzymujesz 3 obrażenia.
+66;	3;	Goblińscy Łucznicy;4;0;		0;		0;		0;			0;			0;		0;		0;		1;			0;			0;		0;		0;			0;			0;		-3;		0;	0;			0;			3 obrażenia dla wrogiej wieży, otrzymujesz 1 obrażenie.
+67;	3;	Driada Cienia;6;0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		-2;		0;	0;			1;			2 obrażenia dla wrogiej wieży, kolejny ruch.
+68;	3;	Krasnoludy;5;	0;			0;		0;		0;			0;			0;		0;		3;		0;			0;			0;		0;		0;			0;			0;		0;		0;	4;			0;			Zadaje 4 obrażenia, mur +3.
+69;	3;	Małe Węże;6;	0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		-4;		0;	0;			0;			4 obrażenia dla wrogiej wieży.
+70;	3;	Gremlin z Wieży;8;0;		0;		0;		0;			0;			0;		2;		4;		0;			0;			0;		0;		0;			0;			0;		0;		0;	2;			0;			Zadaje 2 obrażenia, mur +4, wieża +2.
+71;	3;	Szalone Owce;6;0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			-3;		0;		0;	6;			0;			Zadaje 6 obrażeń, wróg traci 3 bestie.
+72;	3;	Diablik;5;		0;			-5;		0;		-5;			0;			-5;		0;		0;		0;			0;			-5;		0;		-5;			0;			-5;		0;		0;	6;			0;			Zadaje 6 obrażeń, wszyscy gracze tracą 5 bestii, 5 kamieni i 5 kryształów.
+73;	3;	Sukub;	14;		0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			-8;		-5;		0;	0;			0;			5 obrażeń dla wrogiej wieży, przeciwnik traci 8 bestii.
+74;	3;	Niszczyciele Skał;11;0;		0;		0;		0;			0;			0;		0;		0;		0;			-1;			0;		0;		0;			0;			0;		0;		0;	8;			0;			Zadaje 8 obrażeń, przeciwnik: kopalnia -1.
+75;	3;	Złodziej;12;	0;			3;		0;		6;			0;			0;		0;		0;		0;			0;			-5;		0;		-10;		0;			0;		0;		0;	0;			0;			Przeciwnik traci 10 kryształow i 5 kamieni, otrzymujesz 6 kryształów i 3 kamienie.
+76;	3;	Skalny Kolos;15;0;			0;		0;		0;			0;			0;		0;		4;		0;			0;			0;		0;		0;			0;			0;		0;		0;	10;			0;			Zadaje 10 obrażeń, mur +4.
+77;	3;	Wampir;	17;		0;			0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			-1;			-5;		0;		0;	10;			0;			Zadaje 10 obrażeń, przeciwnik: traci 5 bestii i podziemia -1.
+78;	3;	Gnom;	2;		0;			0;		0;		1;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	3;			0;			Zadaje 3 obrażeń, otrzymujesz 1 kryształ.
+79;	3;	Berserker;4;	0;			0;		0;		0;			0;			0;		-3;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	8;			0;			Zadaje 8 obrażeń, 3 obrażenia dla TWOJEJ wieży.
+80;	3;	Misztrz Wojny;13;0;			0;		0;		-3;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	13;			0;			Zadaje 13 obrażeń, tracisz 3 kryształy.
+81;	3;	Jeździec Pegaza;18;0;		0;		0;		0;			0;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		-12;	0;	0;			0;			12 obrażeń dla wrogiej wieży.
+82;	3;	Minotaur;3;		0;			0;		0;		0;			1;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	0;			0;			Lochy +1.
+83;	3;	Pełnia Księżyca;0;0;		0;		0;		0;			1;			3;		0;		0;		0;			0;			0;		0;		0;			1;			3;		0;		0;	0;			0;			Wszyscy gracze: zyskują 3 bestie, podziemia +1.
+84;	3;	Trener Trolli;7;0;			0;		0;		0;			2;			0;		0;		0;		0;			0;			0;		0;		0;			0;			0;		0;		0;	0;			0;			Lochy +2.
+85;	3;	Smok;	25;		0;			0;		0;		0;			1;			0;		0;		0;		0;			0;			0;		0;		-10;		-1;			0;		0;		0;	20;			0;			Zadaje 20 obrażeń, przeciwnik: traci 10 kryształów, lochy -1.
